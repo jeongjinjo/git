@@ -1,0 +1,12 @@
+package ex02;
+
+public class EX05 {
+	boolean a=true;
+	boolean b=false;
+	
+	boolean c=false;
+	
+	boolean d=false;
+	
+	system.out.println(a);
+}
