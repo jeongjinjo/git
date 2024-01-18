@@ -1,0 +1,10 @@
+package dkfjlajfkd;
+
+class CapA {
+
+		
+		
+		
+	}
+	
+}	
